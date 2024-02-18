@@ -1,3 +1,4 @@
+//enable users to view their account balances
 import java.util.ArrayList;
 import java.util.List;
 
